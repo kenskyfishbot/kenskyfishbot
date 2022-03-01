@@ -1,4 +1,4 @@
-# kaholo-plugin-git
+# fish bot
 Git plugin for Kaholo. 
 
 This plugin is a wrapper for the git cli. Therefore git cli must be installed on the agent. 
